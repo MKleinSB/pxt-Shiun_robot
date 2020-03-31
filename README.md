@@ -14,7 +14,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
 Um dieses Repository in MakeCode zu bearbeiten.
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/mkleinsb/pxt-shiun_robot** ein und klicke auf Importieren
 
@@ -22,4 +22,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * for PXT/microbit
 * for PXT/calliope
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+```package
+MKleinSB/pxt-Shiun_robot
+```
