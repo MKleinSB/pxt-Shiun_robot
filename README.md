@@ -1,6 +1,6 @@
 > Diese Seite bei [https://mkleinsb.github.io/pxt-shiun_robot/](https://mkleinsb.github.io/pxt-shiun_robot/) öffnen
 
-![image](https://github.com/MasonChen1003/Shiun_robot_V1/blob/master/Shiun_robot_icon.png)
+![image](https://github.com/MKleinSB/pxt-Shiun_robot/blob/master/CalliopeBiPod.png)
 
 ## Diese Erweiterung verwenden
 
