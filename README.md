@@ -20,6 +20,13 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/mkleinsb/pxt-shiun_robot** ein und klicke auf Importieren
 
+# Calliope Mini Servoboard
+Das Calliope Mini Servoboard gibt es hier:
+
+https://www.hackster.io/MKlein/servoboard-fur-den-calliope-mini-6fb045
+
+Zusätzlich muss man Servoboard 5Volt und Ground abzwacken und am Calliope Mini P1 zur Steuerung der beiden oberen Servos. Die beiden oberen Servos laufen parallel.
+
 # 3D files at thingiverse
 
 https://www.thingiverse.com/thing:3469886
@@ -38,11 +45,12 @@ Basic motion :
 Forward / Backward / Turn Left / Turn Right / Stop
 
 ## Code Example 
-1. Define the offset value for 4-servo motors.  (P0 / P1 /P2)
+1. Define the offset value for 4-servo motors.  (C16 / C17 /P1 /P1)
+Ich habe die Servos uf 90 Grad gestellt und dann eingebaut. So brauchte ich nicht mit verschiedenen Werten zu spielen. 
       
 2. Assign the motion to the robot. 
 
-![image](MiniPOW_example.png)
+![image](https://github.com/MKleinSB/pxt-Shiun_robot/blob/master/CalliBiPodBlocks.png)
 
 Javascipt example code : 
 ==============================================================================
