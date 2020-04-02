@@ -45,10 +45,10 @@ Basic motion :
 Forward / Backward / Turn Left / Turn Right / Stop
 
 ## Code Example 
-1. Define the offset value for 4-servo motors.  (C16 / C17 /P1 /P1)
-Ich habe die Servos uf 90 Grad gestellt und dann eingebaut. So brauchte ich nicht mit verschiedenen Werten zu spielen. 
+1. Offsetwerte für die 4-Servomotoren und 3 Servopins angeben.  (C16 / C17 /P1 /P1)
+Ich habe die Servos auf 90 Grad gestellt und dann eingebaut. So brauchte ich nicht mit verschiedenen Offsetwerten zu spielen. 
       
-2. Assign the motion to the robot. 
+2. Gewünschte Bewegung angeben. 
 
 ![image](https://github.com/MKleinSB/pxt-Shiun_robot/blob/master/CalliBiPodBlocks.png)
 
@@ -70,6 +70,9 @@ Non-Commercial license.
 Author : Mason Chen
 https://www.facebook.com/mason.chen.1420
 
+additional programming for Calliope mini: Michael Klein
+https://www.hackster.io/MKlein
+https://twitter.com/kleinswelt
 
 #### Metadaten (verwendet für Suche, Rendering)
 
