@@ -1,5 +1,6 @@
 {
     "MiniPOW.set_offset|block": "Setze Offset - |links %p1 %_cal_0|rechts %p2 %_cal_1|2x Körper %p3 %_cal_2",
     "MiniPOW.start_animation|block": "Animation - |Helligkeit %bright",
-    "MiniPOW.motion|block": "Bewege Mini - Richtung %direction"
+    "MiniPOW.motion|block": "Bewege Mini - Richtung %direction",
+    "{id:category}Shiun robot": "Shiun Robot"
 }
