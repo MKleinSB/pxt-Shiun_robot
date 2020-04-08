@@ -1,7 +1,7 @@
 {
     "name": "pxt-shiun_robot",
-    "version": "0.0.1",
-    "description": "",
+    "version": "0.0.2",
+    "description": "MiniPow BiPod für Calliope mini",
     "dependencies": {
         "core": "*",
         "radio": "*"
@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "_locales/de/pxt-Shiun_robot-strings.json"
     ],
     "testFiles": [
         "test.ts"
