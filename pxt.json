@@ -1,6 +1,6 @@
 {
     "name": "pxt-shiun_robot",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "MiniPow BiPod für Calliope mini",
     "dependencies": {
         "core": "*",
